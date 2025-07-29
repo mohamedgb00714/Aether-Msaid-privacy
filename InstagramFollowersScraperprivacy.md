@@ -1,3 +1,8 @@
+---
+layout: default
+title: Instagram Followers Scraper Privacy
+---
+
 # Privacy Policy for Instagram Followers Scraper Extension
 
 **Effective Date:** March 10, 2025
